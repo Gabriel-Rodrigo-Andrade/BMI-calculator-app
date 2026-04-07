@@ -72,7 +72,3 @@ Faixas utilizadas no app:
 - Os dados iniciais exibidos na aplicação são apenas exemplos.
 - O projeto não persiste dados em banco local ou remoto.
 - O foco atual está na experiência visual e no fluxo de acompanhamento de IMC.
-
-## Licença
-
-Projeto acadêmico sem licença definida.
